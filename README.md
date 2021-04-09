@@ -4,12 +4,6 @@
 I'm Cemal, a self-motivated tech enthusiast.
 </p>
 
-<p  align="center">
-<a href="https://cmldk.github.io/">https://cmldk.github.io</a>
-</p>
-
-
-<br/>
 <h3 align="center">
 My Tech Stacks
 </h3>
