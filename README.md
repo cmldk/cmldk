@@ -18,3 +18,5 @@ My Tech Stacks
 <img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
 </h3>
 -->
+
+![](https://visitor-badge.glitch.me/badge?page_id=cmldk.cmldk)
