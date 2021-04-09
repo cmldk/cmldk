@@ -8,15 +8,15 @@ I'm Cemal, a self-motivated tech enthusiast.
 <a href="https://cmldk.github.io/">https://cmldk.github.io</a>
 </p>
 
-<!--
+
 <br/>
 <h3 align="center">
 My Tech Stacks
 </h3>
 
 <h3 align="center">
-<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
+<img src="assets/stacks.png" width="50%" alt="stacks"/>
 </h3>
--->
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=cmldk.cmldk)
