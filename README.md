@@ -1,3 +1,3 @@
 <h3 align="center">
-<img src="assets/night.gif" width="100%" alt="night"/>
+<img src="assets/moon.gif" width="100%" alt="night"/>
 </h3>
